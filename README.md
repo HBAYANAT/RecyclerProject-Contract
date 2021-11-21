@@ -13,16 +13,27 @@ It is based on recycling Phones Tablets and Laptops (more equipment to include i
 Recycling is not a new topic but with this project it can provide the following :
 
 1 -  Help electronics owners get rid of the old or deffective devices.
+
 2 -  This program allows people with experience to act as Techniciens (repaire shops owners are welcome too.  more details on rules to come).
+
 3 -  Persons who can store and sell equipement shall be rewarded using recycle token.
-3 -  Devices can sold or destributed ( based on the situation and whos in need for it ).
-4 -  All parties shall be rewarded with Recycle Token ( Owern, Technicien, Who buys the device).
-5 -  The revenues on selled devices shall be devided on growing the project and providing liquidity.
-6 -  Owner can claim a portion of the revenues if the device(s) was repaired and sold.
-7 -  Low Transaction Fee  :  4%.
-8 -  There is No rewards for holder.
-9 -  Building an online ecom store to get 
-10-  More things to come 
+
+4 -  Devices can sold or destributed ( based on the situation and whos in need for it ).
+
+5 -  All parties shall be rewarded with Recycle Token ( Owern, Technicien, Who buys the device).
+
+6 -  The revenues on selled devices shall be devided on growing the project and providing liquidity.
+
+7 -  Owner can claim a portion of the revenues if the device(s) was repaired and sold.
+
+8 -  Low Transaction Fee  :  4%.
+
+9 -  There is No rewards for holder.
+
+10 -  Building an online ecom store to get 
+
+11-  More things to come 
+
 
 Note : this is a new idea my first in crypto world, i'm willing to give it all for persons who wants to support us by providing better websites or Dapps you are welcome.
 
