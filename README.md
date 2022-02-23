@@ -41,4 +41,4 @@ White paper not yet ready but these are the main key elements of the project.
 
 Currently the project is hosted as smart contract on the blockchain, with a good team and help we can move it to a separated blockchain same as bitcoin but with diffrent mechanism of approval and less fees
 
-NOTE : Project will grow by hiring talented persons to remake, wbsite, Dapp, Processes and Rules all will be implemented with time
+NOTE : Project will grow by hiring talented persons to remake, wbsite, Dapp, Processes and Rules all will be implemented with time.
